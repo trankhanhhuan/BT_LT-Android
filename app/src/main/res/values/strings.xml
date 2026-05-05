@@ -1,24 +1,24 @@
-
 <resources>
-    <string name="app_name">Lab10</string>
-    <string name="attention">Attention</string>
-    <string name="back_button">Back</string>
-    <string name="delete">Delete</string>
-    <string name="delete_question">Are you sure you want to delete?</string>
-    <string name="no_item_description">No items in the inventory.\nTap + to add.</string>
-    <string name="edit_item_title">Edit Item</string>
-    <string name="item">Item</string>
-    <string name="item_detail_title">Item Details</string>
-    <string name="item_entry_title">Add Item</string>
-    <string name="item_name_req">Item Name*</string>
-    <string name="item_price_req">Item Price*</string>
-    <string name="no">No</string>
-    <string name="price">Price</string>
-    <string name="quantity_in_stock">Quantity in stock</string>
-    <string name="in_stock">%d in stock</string>
-    <string name="quantity_req">Quantity in Stock*</string>
-    <string name="save_action">Save</string>
-    <string name="sell">Sell</string>
-    <string name="yes">Yes</string>
-    <string name="required_fields">*required fields</string>
+    <string name="app_name">Woof</string>
+    <string name="dog_name_1">Koda</string>
+    <string name="dog_name_2">Lola</string>
+    <string name="dog_name_3">Frankie</string>
+    <string name="dog_name_4">Nox</string>
+    <string name="dog_name_5">Faye</string>
+    <string name="dog_name_6">Bella</string>
+    <string name="dog_name_7">Moana</string>
+    <string name="dog_name_8">Tzeitel</string>
+    <string name="dog_name_9">Leroy</string>
+    <string name="dog_description_1">Eating treats on the terrace</string>
+    <string name="dog_description_2">Barking at Daddy</string>
+    <string name="dog_description_3">Stealing socks</string>
+    <string name="dog_description_4">Meeting new animals</string>
+    <string name="dog_description_5">Digging in the garden</string>
+    <string name="dog_description_6">Chasing sea foam</string>
+    <string name="dog_description_7">Bothering her paw-rents</string>
+    <string name="dog_description_8">Sunbathing</string>
+    <string name="dog_description_9">Sleeping in dangerous places</string>
+    <string name="about">About:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
 </resources>
